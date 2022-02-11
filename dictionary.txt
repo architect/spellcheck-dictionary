@@ -149,6 +149,7 @@ learnable
 learnings
 Lex
 lifecycle
+lifecycles
 linter
 localhost
 localhost:3333
@@ -191,6 +192,8 @@ powershell
 PowerShell
 pragma
 pragmas
+Pragmas
+pre-associated
 pre-compiled
 pre-configured
 pre-deploy
