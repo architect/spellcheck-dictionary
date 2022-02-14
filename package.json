@@ -2,6 +2,7 @@
   "name": "@architect/spellcheck-dictionary",
   "version": "0.0.2",
   "license": "Apache-2.0",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/architect/spellcheck-dictionary.git"
