@@ -141,6 +141,7 @@ payload
 PEM
 per-pragma
 plaintext
+pluginland
 positionally
 PowerShell
 PR
@@ -162,6 +163,7 @@ prerendering
 protip
 proxying
 quickstart
+re-transpiles
 readme
 renderer
 repeatable
@@ -182,6 +184,7 @@ serverlessly
 SHA
 signup
 SNS
+sourcemap
 SQS
 src
 SSL
@@ -206,7 +209,6 @@ truthy
 TSX
 TTL
 UI
-pluginland
 un-break
 unauthenticated
 unformatted
