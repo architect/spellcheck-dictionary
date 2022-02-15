@@ -2,6 +2,7 @@
 .vimrc
 \d+[KMG]B
 ACM
+affordance
 API
 arcana
 ARN
@@ -100,8 +101,9 @@ IoT
 JS
 JSF
 JSON
-JSON-encodes
+JSON-encode
 JSON-like
+JSON-serialize
 JSON-style
 JSX
 keypress
