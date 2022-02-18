@@ -82,6 +82,7 @@ EventBridge
 filesystem
 filetype
 frontend
+FWA
 globals
 hardcode
 hardcoding
