@@ -9,6 +9,7 @@ ARN
 async
 auth
 authorizer
+authortime
 automagical
 AWS
 AZ
