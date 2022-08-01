@@ -19,6 +19,7 @@ base64-encoded
 bcrypt
 blockchain
 blockquoted
+brotli
 Browserify
 bundler
 CA
@@ -86,6 +87,7 @@ frontend
 FWA
 getter
 globals
+gzip
 hardcode
 hardcoding
 headless
