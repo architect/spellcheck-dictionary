@@ -201,6 +201,8 @@ stderr
 stdout
 subdirectories
 subdomain
+subfolder
+subpath
 svg
 symlinking
 teardown
