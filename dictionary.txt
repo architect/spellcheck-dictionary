@@ -111,6 +111,8 @@ JSON-like
 JSON-serialize
 JSON-style
 JSX
+JWE
+JWE-backed
 keypress
 Kinesis
 KMS
