@@ -124,6 +124,7 @@ linter
 localhost
 LTS
 macOS
+masse
 microservices
 middleware
 minify
@@ -219,6 +220,7 @@ transpiling
 truthy
 TSX
 TTL
+TypeScript
 UI
 un-break
 unauthenticated
@@ -230,6 +232,7 @@ unsynced
 unthrottled
 upsert
 userland
+utils
 v\d+
 vars
 VM
