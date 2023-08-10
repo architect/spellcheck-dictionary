@@ -107,6 +107,7 @@ JS
 JSF
 JSON
 JSON-encode
+JSON-encoded
 JSON-like
 JSON-serialize
 JSON-style
