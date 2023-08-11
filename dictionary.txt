@@ -108,6 +108,7 @@ JSF
 JSON
 JSON-encode
 JSON-encoded
+JSON-encoded
 JSON-like
 JSON-serialize
 JSON-style
@@ -224,6 +225,7 @@ TTL
 TypeScript
 UI
 un-break
+un-buffer
 unauthenticated
 unformatted
 unindented
