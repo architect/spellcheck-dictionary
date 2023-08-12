@@ -3,6 +3,8 @@
 \d+[KMG]B
 ACM
 affordance
+AL2
+AL2-based
 API
 arcana
 ARN
