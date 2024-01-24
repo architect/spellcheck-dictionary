@@ -1,6 +1,9 @@
 .env
 .vimrc
 \d+[KMG]B
+\d+\-\d+ms
+\d+\-\d+x
+\d+x
 ACM
 affordance
 AL2
@@ -103,10 +106,11 @@ HTTP
 HTTPS
 IaC
 IAM
-ignoreDependencies
 ignoredDependencies
+ignoreDependencies
 init
 installable
+instantiation
 integrations
 IoT
 JS
@@ -195,6 +199,7 @@ S3
 scalable
 SCSS
 SDK
+SDK-based
 SemVer
 serverless
 serverlessly
