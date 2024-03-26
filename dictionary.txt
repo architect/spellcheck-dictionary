@@ -136,6 +136,8 @@ linter
 localhost
 LTS
 macOS
+marshall
+marshalling
 masse
 microservices
 middleware
@@ -240,6 +242,8 @@ un-buffer
 unauthenticated
 unformatted
 unindented
+unmarshall
+unmarshalling
 unordered
 unparsed
 unsynced
